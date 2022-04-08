@@ -1,0 +1,58 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    /* border-color:  rgb(226, 226, 226); */
+    background-color: white;
+    align-items: center;
+}
+
+img{
+    width: 35px;
+    border-radius: 50%;
+}
+
+span img{
+    width: 40px;
+}
+.points{
+    margin-right: 25px;
+    font-size: 40px;
+}
+
+input{
+    margin: 10px 25px 10px 80px;
+    width: 80%;
+    height: 30px;
+}
+
+button{
+    border-radius: 50%;
+    height: 45px;
+    font-weight: bold;
+}
+
+.message{
+    display: flex;
+    justify-content: flex-end;
+
+    background: url('https://sun9-77.userapi.com/impf/aoTgyUKZCi0miUtvOGapwnR3ge-uCTAIJc7MjA/MYguYLNvr-c.jpg?size=310x670&quality=95&sign=8582b4ef313df129576e463d776d1c9f&type=album') no-repeat;
+    background-size: 100%;
+    background-color: white;
+    border-color: blue;
+    height: 450px;
+    color: white;
+}
+
+.sendMessages{
+    padding-top: 4px;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+    margin: 5px 60px 20px 0;
+}
+
+.sendMessages img{
+    margin-left: 20px;
+    margin-bottom: -6px;
+}

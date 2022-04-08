@@ -1,0 +1,31 @@
+.logo{
+    width: 30px;
+    border-radius: 20%;
+    margin: 10px 5px 5px;
+    /* flood-color: black; */
+    background-color: green;
+}
+
+.container{
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.text{
+    font-size: 23px;
+    /* margin-bottom: 20px; */
+    margin-top: 15px;
+    color:black;
+    font-weight: bolder;
+    font-family:monospace;
+}
+
+.inp{
+    font-size: 15px;
+    border: none;
+    padding-left: 40px;
+    border-radius: 8px;
+    width: 70%;
+    background-color: rgb(230, 228, 228);
+}
